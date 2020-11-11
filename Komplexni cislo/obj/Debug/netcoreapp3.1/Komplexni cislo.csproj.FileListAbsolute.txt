@@ -1,0 +1,13 @@
+C:\Users\cyril\source\repos\Komplexni cislo\bin\Debug\netcoreapp3.1\Komplexni cislo.exe
+C:\Users\cyril\source\repos\Komplexni cislo\bin\Debug\netcoreapp3.1\Komplexni cislo.deps.json
+C:\Users\cyril\source\repos\Komplexni cislo\bin\Debug\netcoreapp3.1\Komplexni cislo.runtimeconfig.json
+C:\Users\cyril\source\repos\Komplexni cislo\bin\Debug\netcoreapp3.1\Komplexni cislo.runtimeconfig.dev.json
+C:\Users\cyril\source\repos\Komplexni cislo\bin\Debug\netcoreapp3.1\Komplexni cislo.dll
+C:\Users\cyril\source\repos\Komplexni cislo\bin\Debug\netcoreapp3.1\Komplexni cislo.pdb
+C:\Users\cyril\source\repos\Komplexni cislo\obj\Debug\netcoreapp3.1\Komplexni cislo.csprojAssemblyReference.cache
+C:\Users\cyril\source\repos\Komplexni cislo\obj\Debug\netcoreapp3.1\Komplexni cislo.AssemblyInfoInputs.cache
+C:\Users\cyril\source\repos\Komplexni cislo\obj\Debug\netcoreapp3.1\Komplexni cislo.AssemblyInfo.cs
+C:\Users\cyril\source\repos\Komplexni cislo\obj\Debug\netcoreapp3.1\Komplexni cislo.csproj.CoreCompileInputs.cache
+C:\Users\cyril\source\repos\Komplexni cislo\obj\Debug\netcoreapp3.1\Komplexni cislo.dll
+C:\Users\cyril\source\repos\Komplexni cislo\obj\Debug\netcoreapp3.1\Komplexni cislo.pdb
+C:\Users\cyril\source\repos\Komplexni cislo\obj\Debug\netcoreapp3.1\Komplexni cislo.genruntimeconfig.cache
