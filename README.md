@@ -1,5 +1,5 @@
 # Complex-calculator
-My Complex calculator using Complex.Method
+My Complex C# calculator using Complex.Method
 
 Calculates all complex method 2 numbers ONLY
 
