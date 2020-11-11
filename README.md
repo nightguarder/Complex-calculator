@@ -1,9 +1,11 @@
 # Complex-calculator
-My Complex C# calculator using Complex.Method
+My Complex calculator using Complex.Method
 
-Calculates all complex method 2 numbers ONLY
+It´s not the final version yet
 
-Functions: Sum,Subtract,Multiply,Divide
+Works for sum, subtraction, multiply and divide
+First enter normal numbers
+then complex (i) numbers.
 
 Download only the ZIP files to test the program on your IDE.
 
