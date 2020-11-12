@@ -9,4 +9,6 @@ then complex (i) numbers.
 
 Download only the ZIP files to test the program on your IDE.
 
+Let me know if u find any bugs.
+
 Do not share any Code without my permission!
